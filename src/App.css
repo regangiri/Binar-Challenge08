@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #446a46;
+  background: #09fa15;
 }
 .todo-app {
   display: flex;
@@ -14,7 +14,7 @@ body {
   justify-content: start;
   width: 100%;
   min-height: 600px;
-  background: #e4aec5;
+  background: #dd528e;
   text-align: center;
   margin: 128px auto;
   border-radius: 10px;
@@ -62,7 +62,7 @@ h1 {
 }
 
 .todo-input.edit {
-  border: 2px solid #149fff;
+  border: 2px solid #037cd3;
 }
 
 .todo-button.edit {
